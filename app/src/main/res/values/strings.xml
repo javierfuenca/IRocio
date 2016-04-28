@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IRocio  BETA</string>
+
+    <string name="introTemperatura">Introduce la temperatura (en ºC)</string>
+    <string name="introHumedad">Introduce la humedad (entre 0-100%)</string>
+    <string name="calcular">Calcular</string>
+    <string name="action_settings">Carapene</string>
+    <string name="title_activity_rocio">IRocio  BETA</string>
+    <string name="info">\n\n\n\nLos valores presentados a continuación son ESTIMADOS. Para obtener datos más precisos acuda a internet, ¡cacho vago! \n\n\nShurJavirulo-Todos los derechos reservados</string>
+
+</resources>
