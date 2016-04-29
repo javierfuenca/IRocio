@@ -1,2 +1,2 @@
 # IRocio
-Jeje lo leíste
+The new revolutionary app for your android device.
